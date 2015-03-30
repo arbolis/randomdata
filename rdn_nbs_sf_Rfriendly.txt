@@ -1,3 +1,4 @@
+# Total nodes searched after running the command stockfish bench 32 2 16, 500 times in a row.
 27615270
 26478331
 33028581
